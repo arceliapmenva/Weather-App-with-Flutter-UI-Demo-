@@ -38,3 +38,6 @@ class WeatherFirstCard extends StatelessWidget {
     );
   }
 }
+
+
+//this is a weathemain card section
